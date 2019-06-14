@@ -8,10 +8,9 @@ AllezCine est un projet de groupe basé sur le site The Movie DB. L'objectif est
 
 ## <a name="Team">Team</a>
 
-| Alexandre MONDT | Elisa RENDA | Andres GOLDESTEIN
-| :---: |:---:| :---:| :---:| :---:|
-| ![Alexandre](https://avatars2.githubusercontent.com/u/43409069?s=100&v=4)| ![Elisa](https://avatars0.githubusercontent.com/u/46518645?s=100&v=4) | ![Andres](https://avatars1.githubusercontent.com/u/46483156?s=400&v=4)|
-<a href="https://github.com/Amondt" target="_blank">`Amondt`</a> | <a href="https://github.com/elisarenda" target="_blank">`elisarenda`</a> | <a href="https://github.com/julienripet" target="_blank">`AndresGol`</a> |
+* Elisa RENDA https://github.com/elisarenda
+* Alexandre ADMONDT https://github.com/Amondt
+* Andres GOLDESTEIN https://github.com/AndresGol
 
 ## Back-End:
 Le back-end du projet a été créé en PHP sur base d'une base de données MySQL.
