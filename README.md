@@ -4,7 +4,7 @@
 
 AllezCine est un projet de groupe basé sur le site The Movie DB. L'objectif est de créer un site permettant de récuperer les films et les séries via l'API TheMovieDb. Pour se faire, nous employerons PHP, VueJS et MySQL pour développer notre plateforme.
 
-## <a name="Team">Our team</a>
+## <a name="Team">Team</a>
 
 | Alexandre MONDT | Elisa RENDA | Andres GOLDESTEIN
 | :---: |:---:| :---:| 
